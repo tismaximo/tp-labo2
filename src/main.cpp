@@ -8,10 +8,10 @@
 #include<iostream>
 #include<cstring>
 #include<ctime>
-#include "Jugador.h"
-#include "Deporte.h"
-#include "submenues.h"
-#include "RegDeporte.h"
+#include "../include/Jugador.h"
+#include "../include/Deporte.h"
+#include "../include/submenues.h"
+#include "../include/RegDeporte.h"
 
 int main()
 {

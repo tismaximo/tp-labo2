@@ -32,27 +32,16 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="Deporte.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="Fecha.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="Jugador.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="RegDeporte.h" />
-		<Unit filename="funcionesSubmenues.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="funcionesglobales.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
-		<Unit filename="main.cpp" />
-		<Unit filename="reportes.h" />
-		<Unit filename="submenues.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
+		<Unit filename=".gitattributes" />
+		<Unit filename="include/Deporte.h" />
+		<Unit filename="include/Fecha.h" />
+		<Unit filename="include/Jugador.h" />
+		<Unit filename="include/RegDeporte.h" />
+		<Unit filename="include/funcionesSubmenues.h" />
+		<Unit filename="include/funcionesglobales.h" />
+		<Unit filename="include/submenues.h" />
+		<Unit filename="src/main.cpp" />
+		<Unit filename="tp.layout" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>
